@@ -1,0 +1,16 @@
+<web-app>
+	<context-param>
+		<param-name> name1 </param-name>
+		<param-value> Deepak Panwar </param-value>
+	</context-param>
+	<context-param>
+		<param-name> email </param-name>
+		<param-value> its.palak </param-value>
+	</context-param>
+	<context-param>
+		<param-name> city </param-name>
+		<param-value> vizag </param-value>
+	</context-param>
+	
+	
+</web-app>
